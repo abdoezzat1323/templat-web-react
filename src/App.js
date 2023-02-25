@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <section className="   vh-100 bg-image  ">
+      <section className="    bg-image  ">
         <nav className=" sec1-text navbar navbar-expand-lg p-3  ">
           <div className="container">
             <div className=" col-xl-4 col-xl-4 col-lg-3 col-md-4 ">
@@ -404,7 +404,7 @@ function App() {
         </div>
       </section>
       <section className=" sec2-bg-color w-100 h-auto pb-9">
-        <div className="container px-5 ">
+        <div className="container  ">
           <div className="row text-center pt-4 ">
             <div className="col-12 ">
               <h1 className=" fw-bolder  ">PORTFOLIO</h1>
@@ -430,7 +430,7 @@ function App() {
                 </div>
                 <div className=" d-flex justify-content-between align-items-center shadow rounded-3">
                   <div>
-                    <h3 className="m-3">Lorem impsum dolor</h3>
+                    <h3 className="m-3 me-0">Lorem impsum dolor</h3>
                     <p className="m-3 pb-3">Web Design / 18 Sep. 2018</p>
                   </div>
                   <div className=" plus-parent text-center  me-3">
@@ -697,7 +697,7 @@ function App() {
                         alt="..."
                       />
                     </div>
-                    <div className="col-5 ps-0 me-4 pt-2 me-3">
+                    <div className="col-6 ps-0 me-4 pt-2 me-3">
                       <h5>Morgan Freeman</h5>
                     </div>
                     <div className="col-3 fs-5 fw-lighter   text-black">
@@ -739,7 +739,7 @@ function App() {
                         alt="..."
                       />
                     </div>
-                    <div className="col-5 ps-0 me-4 pt-2 me-3">
+                    <div className="col-6 ps-0 me-4 pt-2 me-3">
                       <h5>Morgan Freeman</h5>
                     </div>
                     <div className="col-3 fs-5 fw-lighter   text-black">
@@ -781,7 +781,7 @@ function App() {
                         alt="..."
                       />
                     </div>
-                    <div className="col-5 ps-0 me-4 pt-2 me-3">
+                    <div className="col-6 ps-0 me-4 pt-2 me-3">
                       <h5>Morgan Freeman</h5>
                     </div>
                     <div className="col-3 fs-5 fw-lighter   text-black">
