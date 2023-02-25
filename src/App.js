@@ -697,7 +697,7 @@ function App() {
                         alt="..."
                       />
                     </div>
-                    <div className="col-6 ps-0 me-4 pt-2 me-3">
+                    <div className="col-5 ps-0 me-4 pt-2 me-3">
                       <h5>Morgan Freeman</h5>
                     </div>
                     <div className="col-3 fs-5 fw-lighter   text-black">
@@ -739,7 +739,7 @@ function App() {
                         alt="..."
                       />
                     </div>
-                    <div className="col-6 ps-0 me-4 pt-2 me-3">
+                    <div className="col-5 ps-0 me-4 pt-2 me-3">
                       <h5>Morgan Freeman</h5>
                     </div>
                     <div className="col-3 fs-5 fw-lighter   text-black">
@@ -781,7 +781,7 @@ function App() {
                         alt="..."
                       />
                     </div>
-                    <div className="col-6 ps-0 me-4 pt-2 me-3">
+                    <div className="col-5 ps-0 me-4 pt-2 me-3">
                       <h5>Morgan Freeman</h5>
                     </div>
                     <div className="col-3 fs-5 fw-lighter   text-black">
