@@ -6,7 +6,7 @@ function App() {
     <>
       <section className="    bg-image  ">
         <nav className=" sec1-text navbar navbar-expand-lg p-3  ">
-          <div className="container">
+          <div className="container-fluid">
             <div className=" col-xl-4 col-xl-4 col-lg-3 col-md-4 ">
               <a className="fs-4  text-light navbar-brand" href="a">
                 Devolepee
@@ -106,7 +106,7 @@ function App() {
             </div>
           </div>
         </nav>
-        <div className=" sec1-text container  h-75 d-flex justify-content-center align-items-center ">
+        <div className=" sec1-text container-fluid  h-75 d-flex justify-content-center align-items-center ">
           <div className="row  ">
             <div className="col-12 text-center ">
               <h1 className="  fs-special txt-color pb-4 ">
@@ -118,7 +118,7 @@ function App() {
         </div>
       </section>
       <section className=" h-auto sec2-bg-color  pb-3">
-        <div className="container  bg-white shadow rounded-3 px-5 ">
+        <div className="container-fluid  bg-white shadow rounded-3 px-5 ">
           <div className="row ">
             <div className="col-xl-6 col-12   mt-5">
               <div className="row">
@@ -220,7 +220,7 @@ function App() {
         </div>
       </section>
       <section className=" w-100  h-auto   sec2-bg-color">
-        <div className="container mb-4">
+        <div className="container-fluid mb-4">
           <div className="row text-center">
             <div className="col-12 mt-5">
               <h1 className=" fw-bolder">SERVICES</h1>
@@ -287,7 +287,7 @@ function App() {
             </div>
           </div>
         </div>
-        <div className="container ">
+        <div className="container-fluid ">
           <div className="row d-flex justify-content-center ">
             <div className="col-xl-4 col-lg-6 col-md-12 mb-5 text-center ">
               <div className=" parent-icon-div w-100 bg-white rounded-4 shadow pt-5">
@@ -346,7 +346,7 @@ function App() {
       </section>
       <section className=" sec3-img    position-relative">
         <div className="bg-img-blue "></div>
-        <div className="container">
+        <div className="container-fluid">
           <div className="row">
             <div className="col-xl-3 col-lg-6 col-md-12  my-lg-5 py-4   ">
               <div className=" parent-icon-div w-100 h-55     ">
@@ -404,7 +404,7 @@ function App() {
         </div>
       </section>
       <section className=" sec2-bg-color w-100 h-auto pb-9">
-        <div className="container  ">
+        <div className="container-fluid  ">
           <div className="row text-center pt-4 ">
             <div className="col-12 ">
               <h1 className=" fw-bolder  ">PORTFOLIO</h1>
@@ -430,7 +430,7 @@ function App() {
                 </div>
                 <div className=" d-flex justify-content-between align-items-center shadow rounded-3">
                   <div>
-                    <h5 className="m-3 me-0">Lorem impsum dolor</h5>
+                    <h3 className="m-3 me-0">Lorem impsum dolor</h3>
                     <p className="m-3 pb-3">Web Design / 18 Sep. 2018</p>
                   </div>
                   <div className=" plus-parent text-center  me-3">
@@ -580,7 +580,7 @@ function App() {
       </section>
       <section className="  w-100  h-auto sec5-img position-relative">
         <div className="bg-img-blue "></div>
-        <div className="container">
+        <div className="container-fluid ">
           <div className="row">
             <div className="col-12">
               <div
@@ -655,7 +655,7 @@ function App() {
         </div>
       </section>
       <section className=" h-auto sec2-bg-color">
-        <div className="container pb-5">
+        <div className="container-fluid pb-5">
           <div className="row">
             <div className="col-12 text-center mt-5">
               <h1 className=" fw-bolder fs-7">BLOG</h1>
@@ -799,7 +799,7 @@ function App() {
       </section>
       <section className=" w-100  h-auto sec5-img position-relative">
         <div className="bg-img-blue "></div>
-        <div className="container mb-0 ">
+        <div className="container-fluid mb-0 ">
           <div className=" row bg-white">
             <div className=" col-xl-6 col-lg-12 pt-5 ">
               <div className="pt-3 mb-5">
