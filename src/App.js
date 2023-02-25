@@ -430,7 +430,7 @@ function App() {
                 </div>
                 <div className=" d-flex justify-content-between align-items-center shadow rounded-3">
                   <div>
-                    <h3 className="m-3 me-0">Lorem impsum dolor</h3>
+                    <h5 className="m-3 me-0">Lorem impsum dolor</h5>
                     <p className="m-3 pb-3">Web Design / 18 Sep. 2018</p>
                   </div>
                   <div className=" plus-parent text-center  me-3">
