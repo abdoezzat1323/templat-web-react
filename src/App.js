@@ -110,9 +110,9 @@ function App() {
           <div className="row  ">
             <div className="col-12 text-center ">
               <h1 className="  fs-special txt-color pb-4 ">
-                I am Morgan Freeman
+                I am Abdelrhman ezzat
               </h1>
-              <h1 className="txt-color">DEVOLEPER</h1>
+              <h1 className="txt-color">reactjs DEVOLEPER</h1>
             </div>
           </div>
         </div>
@@ -131,18 +131,21 @@ function App() {
                 </div>
                 <div className=" offset-xl-1 col-xl-7 col-lg-8 col-md-8 col-sm-8 col-8  ">
                   <h5 className=" fw-bold">
-                    Name:<span className=" fw-normal"> Morgan Freeman</span>
+                    Name:<span className=" fw-normal">Abdelrhman ezzat</span>
                   </h5>
                   <h5 className="fw-bold mt-4">
                     Profile:
-                    <span className=" fw-normal"> full stack developer</span>
+                    <span className=" fw-normal"> Front-end developer</span>
                   </h5>
                   <h5 className="fw-bold mt-4">
                     Email:
-                    <span className=" fw-normal"> contact@example.com</span>
+                    <span className=" fw-normal">
+                      {" "}
+                      abdelrhman.ezzat1323@gmail.com
+                    </span>
                   </h5>
                   <h5 className="fw-bold mt-4">
-                    Phone: <span className=" fw-normal"> (617) 557-0089</span>
+                    Phone: <span className=" fw-normal"> 01010749386</span>
                   </h5>
                 </div>
               </div>
@@ -159,7 +162,7 @@ function App() {
                 >
                   <div className="progress-bar w-75"></div>
                 </div>
-                <h4 className="mt-3 fw-bold">CSS 50%</h4>
+                <h4 className="mt-3 fw-bold">CSS 100%</h4>
                 <div
                   className="progress"
                   role="progressbar"
@@ -168,7 +171,7 @@ function App() {
                   aria-valuemin="0"
                   aria-valuemax="100"
                 >
-                  <div className="progress-bar w-50"></div>
+                  <div className="progress-bar w-100"></div>
                 </div>
                 <h4 className="mt-3 fw-bold">PHP 25%</h4>
                 <div
@@ -192,28 +195,29 @@ function App() {
                 >
                   <div className="progress-bar w-75"></div>
                 </div>
+                <h4 className="mt-3 fw-bold">reactjs 100%</h4>
+                <div
+                  className="progress"
+                  role="progressbar"
+                  aria-label="Basic example"
+                  aria-valuenow="75"
+                  aria-valuemin="0"
+                  aria-valuemax="100"
+                >
+                  <div className="progress-bar w-100"></div>
+                </div>
               </div>
             </div>
             <div className="col-xl-6 col-lg-12 col-md-12 mt-5">
               <h2>About Me</h2>
               <div className="w-100px h-special bg-blue"></div>
               <p className=" fw-light mt-5 fs-4">
-                Curabitur non nulla sit amet nisl tempus convallis quis ac
-                lectus. Curabitur arcu erat, accumsan id imperdiet et, porttitor
-                at sem. Praesent sapien massa, convallis a pellentesque nec,
-                egestas non nisi. Nulla porttitor accumsan tincidunt
-              </p>
-              <p className=" fw-light mt-4 fs-4">
-                Curabitur non nulla sit amet nisl tempus convallis quis ac
-                lectus. Curabitur arcu erat, accumsan id imperdiet et, porttitor
-                at sem. Praesent sapien massa, convallis a pellentesque nec,
-                egestas non nisi. Nulla porttitor accumsan tincidunt.
-              </p>
-              <p className=" fw-light mt-4 fs-4 ">
-                Curabitur non nulla sit amet nisl tempus convallis quis ac
-                lectus. Curabitur arcu erat, accumsan id imperdiet et, porttitor
-                at sem. Praesent sapien massa, convallis a pellentesque nec,
-                egestas non nisi. Nulla porttitor accumsan tincidunt.
+                I am Abdelrhman Ezzat, a graduate of the College of Engineering,
+                Department of Computers and Controls, with a grade of very good.
+                I work as a programmer and web developer using (to) I can work
+                under pressure. I was a team leader for college projects. It was
+                an e-commerce website development project that I did using react
+                js as a frontend developer
               </p>
             </div>
           </div>
